@@ -1,0 +1,835 @@
+21:44:50.179 Got a kill message. Killing runner.
+22:41:43.293 Killing Gauge daemon. Parent process with pid 4412 has terminated.
+t status 1).
+21:48:40.925 Error while killing runner: invalid argument
+21:48:40.925 Killing Gauge daemon. Runner with pid 4504 quit unexpectedly(exit status 1).
+22:11:39.659 Checking updates...
+22:11:46.833 # Specification Heading
+22:11:46.837 ## Scenario Heading
+22:11:46.859 * Setting up environment to run Android for Appium
+
+22:11:57.238 * Validate that the application can read the text of "Bullshit"
+
+22:12:05.927 * Closing the driver
+22:12:09.851 Plugin [Html Report] with pid [1748] has exited
+22:12:09.952 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:12:09.952 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:12:09.972 
+Total time taken: 20.966s
+22:12:09.982 Updates are available. Run gauge --check-updates for more info.
+22:21:44.385 Checking updates...
+22:21:50.142 # Specification Heading
+22:21:50.146 ## Scenario Heading
+22:21:50.150 * Setting up environment to run Android for Appium
+
+22:21:58.386 * Validate that the application can read the text 
+
+     |Text To Read |
+     |-------------|
+     |Zocor        |
+     |Synthroid    |
+     |Hydrocodon...|
+     |Azithromyc...|
+     |Hydrochlor...|
+22:22:59.165 * Closing the driver
+22:23:00.856 Plugin [Html Report] with pid [3904] has exited
+22:23:00.958 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:23:00.958 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:23:00.958 
+Total time taken: 1m10.659s
+22:23:00.958 Updates are available. Run gauge --check-updates for more info.
+22:30:40.987 Checking updates...
+22:30:46.444 # Speak Test Specification
+22:30:46.451 ## TTS Testing Scenario
+22:30:46.458 * Setting up environment to run Android in Appium
+
+22:30:54.548 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+22:31:57.067 * Closing the driver
+22:31:58.856 Plugin [Html Report] with pid [1180] has exited
+22:31:58.957 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:31:58.957 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:31:58.957 
+Total time taken: 1m12.297s
+22:31:58.957 Updates are available. Run gauge --check-updates for more info.
+22:35:43.697 Checking updates...
+22:35:52.705 # Speak Test Specification
+22:35:52.710 ## TTS Testing Scenario
+22:35:52.715 * Setting up environment to run Android in Appium
+
+22:36:02.461 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+22:37:03.570 * Closing the driver
+22:37:05.467 Plugin [Html Report] with pid [268] has exited
+22:37:05.568 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:37:05.568 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:37:05.568 
+Total time taken: 1m12.686s
+22:37:05.568 Updates are available. Run gauge --check-updates for more info.
+22:38:03.024 Got a kill message. Killing runner.
+22:38:07.122 Killing runner with PID:4756 forcefully
+22:39:31.553 Checking updates...
+22:39:38.058 # Speak Test Specification
+22:39:38.062 ## TTS Testing Scenario
+22:39:38.067 * Setting up environment to run Android in Appium
+
+22:39:46.709 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+22:40:48.982 * Closing the driver
+22:40:50.676 Plugin [Html Report] with pid [8424] has exited
+22:40:50.778 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:40:50.778 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:40:50.778 
+Total time taken: 1m12.583s
+22:40:50.778 Updates are available. Run gauge --check-updates for more info.
+10:40:18.622 Got a kill message. Killing runner.
+10:40:22.712 Killing runner with PID:8480 forcefully
+11:07:15.205 Checking updates...
+11:07:20.031 # Speak Test Specification
+11:07:20.035 ## TTS Testing Scenario
+11:07:20.043 * Setting up environment to run Android in Appium
+
+11:07:30.429 * Validate that the application can read the text <table:/resources/TextToSpeech.csv>
+
+11:08:32.507 * Closing the driver
+11:08:34.493 Plugin [Html Report] with pid [7648] has exited
+11:08:34.594 Specifications:	1 executed	1 passed	0 failed	0 skipped
+11:08:34.594 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11:08:34.609 
+Total time taken: 1m14.364s
+11:08:34.618 Updates are available. Run gauge --check-updates for more info.
+11:12:18.226 Checking updates...
+11:12:23.916 # Speak Test Specification
+11:12:23.921 ## TTS Testing Scenario
+11:12:23.927 * Setting up environment to run Android in Appium
+
+11:12:32.285 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+11:13:34.889 * Closing the driver
+11:13:36.546 Plugin [Html Report] with pid [2968] has exited
+11:13:36.715 Specifications:	1 executed	1 passed	0 failed	0 skipped
+11:13:36.715 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11:13:36.715 
+Total time taken: 1m12.623s
+11:13:36.715 Updates are available. Run gauge --check-updates for more info.
+11:15:12.465 Checking updates...
+11:15:18.557 # Speak Test Specification
+11:15:18.561 ## TTS Testing Scenario
+11:15:18.565 * Setting up environment to run Android in Appium
+
+11:15:26.862 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+11:16:29.290 * Closing the driver
+11:16:31.038 Plugin [Html Report] with pid [2096] has exited
+11:16:31.140 Specifications:	1 executed	1 passed	0 failed	0 skipped
+11:16:31.140 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11:16:31.140 
+Total time taken: 1m12.368s
+11:16:31.140 Updates are available. Run gauge --check-updates for more info.
+20:03:03.310 Got a kill message. Killing runner.
+20:03:07.346 Killing runner with PID:4620 forcefully
+20:04:20.210 Checking updates...
+20:04:26.894 # Speak Test Specification
+20:04:26.898 ## TTS Testing Scenario
+20:04:26.935 * Setting up environment to run Android in Appium
+
+20:04:37.958 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+20:05:39.037 * Closing the driver
+20:05:41.200 Plugin [Html Report] with pid [7372] has exited
+20:05:41.300 Specifications:	1 executed	1 passed	0 failed	0 skipped
+20:05:41.300 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+20:05:41.304 
+Total time taken: 1m14.175s
+20:05:41.314 Updates are available. Run gauge --check-updates for more info.
+13:05:35.863 Checking updates...
+13:07:13.113 [ValidationError] C:\Users\Osanda\IdeaProjects\BDT-Orator-Testing\specs\SpeakTest.spec:8 Request Timeout => 'Setting up environment to run Android in Appium'
+13:07:13.149 [ValidationError] C:\Users\Osanda\IdeaProjects\BDT-Orator-Testing\specs\SpeakTest.spec:14 Request Timeout => 'Validate that the application can read the text <table>'
+13:07:13.149 [ValidationError] C:\Users\Osanda\IdeaProjects\BDT-Orator-Testing\specs\SpeakTest.spec:27 Request Timeout => 'Closing the driver'
+13:07:45.522 Checking updates...
+13:07:54.571 # Speak Test Specification
+13:07:54.573 ## TTS Testing Scenario
+13:07:54.576 * Setting up environment to run Android in Appium
+
+13:08:10.451 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+13:09:13.188 * Closing the driver
+13:09:15.622 Plugin [Html Report] with pid [7400] has exited
+13:09:15.823 Specifications:	1 executed	1 passed	0 failed	0 skipped
+13:09:15.823 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+13:09:15.823 
+Total time taken: 1m20.669s
+17:17:55.822 Checking updates...
+17:18:00.340 # Speak Test Specification
+17:18:00.342 ## TTS Testing Scenario
+17:18:00.345 * Setting up environment to run Android in Appium
+
+17:20:34.453 Checking updates...
+17:20:39.539 # Speak Test Specification
+17:20:39.540 ## TTS Testing Scenario
+17:20:39.543 * Setting up environment to run Android in Appium
+
+17:20:50.098 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+17:21:58.886 * Closing the driver
+17:22:00.878 Plugin [Html Report] with pid [14220] has exited
+17:22:01.079 Specifications:	1 executed	1 passed	0 failed	0 skipped
+17:22:01.079 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17:22:01.079 
+Total time taken: 1m21.342s
+13:01:19.231 Checking updates...
+13:01:24.914 # Speak Test Specification
+13:01:24.915 ## TTS Testing Scenario
+13:01:24.918 * Setting up environment to run Android in Appium
+
+13:01:37.029 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+13:02:40.317 * Closing the driver
+13:02:42.498 Plugin [Html Report] with pid [11128] has exited
+13:02:42.598 Specifications:	1 executed	1 passed	0 failed	0 skipped
+13:02:42.598 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+13:02:42.598 
+Total time taken: 1m17.709s
+18:58:47.400 Checking updates...
+18:58:52.049 # Speak Test Specification
+18:58:52.051 ## TTS Testing Scenario
+18:58:52.054 * Setting up environment to run Android in Appium
+
+18:59:02.407 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+19:00:06.726 * Closing the driver
+19:00:08.861 Plugin [Html Report] with pid [10704] has exited
+19:00:08.964 Specifications:	1 executed	1 passed	0 failed	0 skipped
+19:00:08.964 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+19:00:08.964 
+Total time taken: 1m16.731s
+22:01:02.940 Checking updates...
+22:01:02.958 Failed to download html-report-install.json file: Get https://downloads.getgauge.io/plugin/html-report?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:01:02.961 Failed to download java-install.json file: Get https://downloads.getgauge.io/plugin/java?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:01:23.235 Error Message: java.lang.InstantiationException
+22:01:23.235 Stacktrace: 
+sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(InstantiationExceptionConstructorAccessorImpl.java:48)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+java.lang.Class.newInstance(Class.java:442)
+com.thoughtworks.gauge.ClassInstanceManager.get(ClassInstanceManager.java:34)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:37)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionStartingProcessor.process(SuiteExecutionStartingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+22:01:23.235 Error Message: java.lang.InstantiationException
+22:01:23.235 Stacktrace: 
+sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(InstantiationExceptionConstructorAccessorImpl.java:48)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+java.lang.Class.newInstance(Class.java:442)
+com.thoughtworks.gauge.ClassInstanceManager.get(ClassInstanceManager.java:34)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:37)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionEndingProcessor.process(SuiteExecutionEndingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+22:01:23.342 Plugin [Html Report] with pid [6656] has exited
+22:01:23.744 Specifications:	0 executed	0 passed	0 failed	0 skipped
+22:01:23.744 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+22:01:23.744 
+Total time taken: 2.408s
+22:04:46.206 Checking updates...
+22:04:46.208 Failed to download html-report-install.json file: Get https://downloads.getgauge.io/plugin/html-report?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:04:46.211 Failed to download java-install.json file: Get https://downloads.getgauge.io/plugin/java?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:04:54.039 Error Message: java.lang.InstantiationException
+22:04:54.040 Stacktrace: 
+sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(InstantiationExceptionConstructorAccessorImpl.java:48)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+java.lang.Class.newInstance(Class.java:442)
+com.thoughtworks.gauge.ClassInstanceManager.get(ClassInstanceManager.java:34)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:37)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionStartingProcessor.process(SuiteExecutionStartingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+22:04:54.040 Error Message: java.lang.InstantiationException
+22:04:54.040 Stacktrace: 
+sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(InstantiationExceptionConstructorAccessorImpl.java:48)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+java.lang.Class.newInstance(Class.java:442)
+com.thoughtworks.gauge.ClassInstanceManager.get(ClassInstanceManager.java:34)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:37)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionEndingProcessor.process(SuiteExecutionEndingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+22:04:54.145 Plugin [Html Report] with pid [17096] has exited
+22:04:54.550 Specifications:	0 executed	0 passed	0 failed	0 skipped
+22:04:54.550 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+22:04:54.550 
+Total time taken: 1.3s
+22:08:53.995 Checking updates...
+22:08:53.998 Failed to download html-report-install.json file: Get https://downloads.getgauge.io/plugin/html-report?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:08:54.002 Failed to download java-install.json file: Get https://downloads.getgauge.io/plugin/java?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:09:01.696 Error Message: java.lang.InstantiationException
+22:09:01.696 Stacktrace: 
+sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(InstantiationExceptionConstructorAccessorImpl.java:48)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+java.lang.Class.newInstance(Class.java:442)
+com.thoughtworks.gauge.ClassInstanceManager.get(ClassInstanceManager.java:34)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:37)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionStartingProcessor.process(SuiteExecutionStartingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+22:09:01.696 Error Message: java.lang.InstantiationException
+22:09:01.696 Stacktrace: 
+sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(InstantiationExceptionConstructorAccessorImpl.java:48)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+java.lang.Class.newInstance(Class.java:442)
+com.thoughtworks.gauge.ClassInstanceManager.get(ClassInstanceManager.java:34)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:37)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionEndingProcessor.process(SuiteExecutionEndingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+22:09:01.801 Plugin [Html Report] with pid [13128] has exited
+22:09:02.203 Specifications:	0 executed	0 passed	0 failed	0 skipped
+22:09:02.203 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+22:09:02.203 
+Total time taken: 1.319s
+22:11:15.370 Checking updates...
+22:11:35.902 Error Message: java.lang.InstantiationException
+22:11:35.903 Stacktrace: 
+sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(InstantiationExceptionConstructorAccessorImpl.java:48)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+java.lang.Class.newInstance(Class.java:442)
+com.thoughtworks.gauge.ClassInstanceManager.get(ClassInstanceManager.java:34)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:37)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionStartingProcessor.process(SuiteExecutionStartingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+22:11:35.903 Error Message: java.lang.InstantiationException
+22:11:35.903 Stacktrace: 
+sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(InstantiationExceptionConstructorAccessorImpl.java:48)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+java.lang.Class.newInstance(Class.java:442)
+com.thoughtworks.gauge.ClassInstanceManager.get(ClassInstanceManager.java:34)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:37)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionEndingProcessor.process(SuiteExecutionEndingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+22:11:36.126 Plugin [Html Report] with pid [17664] has exited
+22:11:36.933 Specifications:	0 executed	0 passed	0 failed	0 skipped
+22:11:36.933 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+22:11:36.947 
+Total time taken: 4.841s
+22:14:43.770 Checking updates...
+22:15:26.193 # Speak Test Specification
+22:15:26.251 ## TTS Testing Scenario
+22:15:26.336 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+22:16:36.678 Error Message: org.openqa.selenium.WebDriverException: Method has not yet been implemented (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 68 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'Mitrai-OsandaN', ip: '192.168.88.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{app=C:\Users\Osanda\IdeaProjects\BDT-Orator-Testing\resources\Orator.apk, appPackage=maxsoft.osanda.com.oratortextreader, deviceScreenSize=768x1280, networkConnectionEnabled=true, warnings={}, appWaitPackage=maxsoft.osanda.com.oratortextreader, appWaitActivity=com.osanda.maxsoft.textreader.MainActivity, databaseEnabled=false, deviceName=192.168.88.101:5555, version=5.1.0, platform=LINUX, deviceUDID=192.168.88.101:5555, appActivity=com.osanda.maxsoft.textreader.MainActivity, desired={app=C:\Users\Osanda\IdeaProjects\BDT-Orator-Testing\resources\Orator.apk, appPackage=maxsoft.osanda.com.oratortextreader, platformName=Android, deviceName=Android, version=5.1.0}, platformVersion=5.1, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=Custom Phone - 5.1.0 - API 22 - 768x1280, platformName=Android, deviceManufacturer=unknown}]
+Session ID: dfb640b6-3499-4953-9ad5-d08cac5689de
+22:16:36.678 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:605)
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:27)
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:272)
+org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:469)
+stepImpl.AndroidSetup.TearDown(AndroidSetup.java:73)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionEndingProcessor.process(SuiteExecutionEndingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+22:16:37.921 Plugin [Html Report] with pid [17596] has exited
+22:16:38.536 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:16:38.536 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:16:38.561 
+Total time taken: 1m43.887s
+22:17:11.357 Checking updates...
+22:19:04.095 Checking updates...
+22:19:04.105 Failed to download html-report-install.json file: Get https://downloads.getgauge.io/plugin/html-report?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:19:04.129 Failed to download java-install.json file: Get https://downloads.getgauge.io/plugin/java?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:19:16.667 Error Message: org.openqa.selenium.SessionNotCreatedException: A new session could not be created. Details: Problem getting session data for driver type AndroidDriver; does it implement 'get driverData'? (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 372 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'Mitrai-OsandaN', ip: '192.168.88.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: io.appium.java_client.android.AndroidDriver
+22:19:16.667 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:605)
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:27)
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:242)
+org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:128)
+org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:155)
+io.appium.java_client.DefaultGenericMobileDriver.<init>(DefaultGenericMobileDriver.java:22)
+io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:202)
+io.appium.java_client.android.AndroidDriver.<init>(AndroidDriver.java:50)
+stepImpl.AndroidSetup.prepareAndroidForAppium(AndroidSetup.java:67)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionStartingProcessor.process(SuiteExecutionStartingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+22:19:16.667 Error Message: java.lang.NullPointerException
+22:19:16.667 Stacktrace: 
+stepImpl.AndroidSetup.TearDown(AndroidSetup.java:72)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionEndingProcessor.process(SuiteExecutionEndingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+22:19:16.775 Plugin [Html Report] with pid [16752] has exited
+22:19:17.278 Specifications:	0 executed	0 passed	0 failed	0 skipped
+22:19:17.278 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+22:19:17.278 
+Total time taken: 4.21s
+22:20:33.841 Checking updates...
+22:20:33.870 Failed to download html-report-install.json file: Get https://downloads.getgauge.io/plugin/html-report?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:20:33.873 Failed to download java-install.json file: Get https://downloads.getgauge.io/plugin/java?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:20:54.195 Error Message: org.openqa.selenium.SessionNotCreatedException: A new session could not be created. Details: Problem getting session data for driver type AndroidDriver; does it implement 'get driverData'? (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 476 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'Mitrai-OsandaN', ip: '192.168.88.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: io.appium.java_client.android.AndroidDriver
+22:20:54.195 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:605)
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:27)
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:242)
+org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:128)
+org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:155)
+io.appium.java_client.DefaultGenericMobileDriver.<init>(DefaultGenericMobileDriver.java:22)
+io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:202)
+io.appium.java_client.android.AndroidDriver.<init>(AndroidDriver.java:50)
+stepImpl.AndroidSetup.prepareAndroidForAppium(AndroidSetup.java:67)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionStartingProcessor.process(SuiteExecutionStartingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+22:20:54.195 Error Message: java.lang.NullPointerException
+22:20:54.195 Stacktrace: 
+stepImpl.AndroidSetup.TearDown(AndroidSetup.java:72)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionEndingProcessor.process(SuiteExecutionEndingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+22:20:54.397 Plugin [Html Report] with pid [15332] has exited
+22:20:55.083 Specifications:	0 executed	0 passed	0 failed	0 skipped
+22:20:55.083 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+22:20:55.083 
+Total time taken: 3.533s
+22:21:24.860 Checking updates...
+22:21:24.880 Failed to download html-report-install.json file: Get https://downloads.getgauge.io/plugin/html-report?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:21:24.927 Failed to download java-install.json file: Get https://downloads.getgauge.io/plugin/java?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:21:36.640 Error Message: org.openqa.selenium.SessionNotCreatedException: A new session could not be created. Details: Problem getting session data for driver type AndroidDriver; does it implement 'get driverData'? (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 366 milliseconds
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'Mitrai-OsandaN', ip: '192.168.88.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: io.appium.java_client.android.AndroidDriver
+22:21:36.640 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:605)
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:27)
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:242)
+org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:128)
+org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:155)
+io.appium.java_client.DefaultGenericMobileDriver.<init>(DefaultGenericMobileDriver.java:22)
+io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:202)
+io.appium.java_client.android.AndroidDriver.<init>(AndroidDriver.java:50)
+stepImpl.AndroidSetup.prepareAndroidForAppium(AndroidSetup.java:67)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionStartingProcessor.process(SuiteExecutionStartingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+22:21:36.640 Error Message: java.lang.NullPointerException
+22:21:36.640 Stacktrace: 
+stepImpl.AndroidSetup.TearDown(AndroidSetup.java:72)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionEndingProcessor.process(SuiteExecutionEndingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+22:21:36.747 Plugin [Html Report] with pid [17828] has exited
+22:21:37.281 Specifications:	0 executed	0 passed	0 failed	0 skipped
+22:21:37.281 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+22:21:37.281 
+Total time taken: 2.89s
+22:22:06.587 Checking updates...
+22:22:06.631 Failed to download html-report-install.json file: Get https://downloads.getgauge.io/plugin/html-report?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:22:06.638 Failed to download java-install.json file: Get https://downloads.getgauge.io/plugin/java?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:22:34.958 # Speak Test Specification
+22:22:34.959 ## TTS Testing Scenario
+22:22:34.963 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+22:23:44.301 Plugin [Html Report] with pid [17052] has exited
+22:23:44.503 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:23:44.503 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:23:44.503 
+Total time taken: 1m28.743s
+22:25:15.639 Checking updates...
+22:25:15.642 Failed to download html-report-install.json file: Get https://downloads.getgauge.io/plugin/html-report?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:25:15.646 Failed to download java-install.json file: Get https://downloads.getgauge.io/plugin/java?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:25:34.170 # Speak Test Specification
+22:25:34.173 ## TTS Testing Scenario
+22:25:34.175 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+22:26:41.336 Plugin [Html Report] with pid [2016] has exited
+22:26:41.538 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:26:41.538 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:26:41.538 
+Total time taken: 1m19.052s
+22:27:35.771 Checking updates...
+22:27:35.775 Failed to download html-report-install.json file: Get https://downloads.getgauge.io/plugin/html-report?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:27:35.778 Failed to download java-install.json file: Get https://downloads.getgauge.io/plugin/java?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:27:55.151 # Speak Test Specification
+22:27:55.152 ## TTS Testing Scenario
+22:27:55.154 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+22:29:06.289 Plugin [Html Report] with pid [7612] has exited
+22:29:06.490 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:29:06.490 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:29:06.490 
+Total time taken: 1m24.295s
+22:29:44.264 Checking updates...
+22:29:44.267 Failed to download html-report-install.json file: Get https://downloads.getgauge.io/plugin/html-report?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:29:44.270 Failed to download java-install.json file: Get https://downloads.getgauge.io/plugin/java?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:30:02.073 # Speak Test Specification
+22:30:02.075 ## TTS Testing Scenario
+22:30:02.078 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+22:31:09.267 Plugin [Html Report] with pid [15072] has exited
+22:31:09.368 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:31:09.368 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:31:09.368 
+Total time taken: 1m18.188s
+22:36:06.974 Checking updates...
+22:36:06.978 Failed to download html-report-install.json file: Get https://downloads.getgauge.io/plugin/html-report?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:36:06.981 Failed to download java-install.json file: Get https://downloads.getgauge.io/plugin/java?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:36:26.082 # Speak Test Specification
+22:36:26.084 ## TTS Testing Scenario
+22:36:26.086 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+22:37:32.529 Plugin [Html Report] with pid [3036] has exited
+22:37:32.630 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:37:32.630 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:37:32.630 
+Total time taken: 1m19.156s
+22:40:54.854 Checking updates...
+22:40:54.862 Failed to download html-report-install.json file: Get https://downloads.getgauge.io/plugin/html-report?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:40:54.865 Failed to download java-install.json file: Get https://downloads.getgauge.io/plugin/java?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:41:13.845 # Speak Test Specification
+22:41:13.846 ## TTS Testing Scenario
+22:41:13.849 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+22:42:20.493 Plugin [Html Report] with pid [18064] has exited
+22:42:20.593 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:42:20.593 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:42:20.593 
+Total time taken: 1m19.488s
+22:49:35.539 Checking updates...
+22:50:06.186 # Speak Test Specification
+22:50:06.433 ## TTS Testing Scenario
+22:50:06.475 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+22:51:16.882 Plugin [Html Report] with pid [6516] has exited
+22:51:17.287 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:51:17.287 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:51:17.293 
+Total time taken: 1m30.248s
+22:57:47.472 Checking updates...
+22:57:47.482 Failed to download html-report-install.json file: Get https://downloads.getgauge.io/plugin/html-report?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:57:47.484 Failed to download java-install.json file: Get https://downloads.getgauge.io/plugin/java?l=java&p=html-report,java&o=windows&a=amd64: dial tcp: lookup downloads.getgauge.io: no such host
+22:58:05.376 # Speak Test Specification
+22:58:05.382 ## TTS Testing Scenario
+22:58:05.382 * Validate that the application can read the text 
+
+     |Text To Speech                        |
+     |--------------------------------------|
+     |Behavioral Driven Testing using Appium|
+     |Mitra Innovation                      |
+     |Software Test Automation              |
+     |Gauge Framework                       |
+     |Selenium Java                         |
+22:59:16.143 Plugin [Html Report] with pid [7332] has exited
+22:59:16.343 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:59:16.343 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:59:16.343 
+Total time taken: 1m22.11s
